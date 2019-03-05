@@ -7,5 +7,5 @@ Program that creates a table dynamically based upon a provided dataset based and
 * [Plotly Code](static/js/plot.js)
 * [Dataset](static/js/data.js)
 
-![plotly.PNG](static/images/plotly.PNG)
+![plotly.PNG](static/images/plotly.png)
 ![frontend.PNG](static/images/frontend.PNG)
