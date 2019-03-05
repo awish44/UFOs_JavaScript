@@ -8,4 +8,6 @@ Program that creates a table dynamically based upon a provided dataset based and
 * [Dataset](static/js/data.js)
 
 ![frontend.PNG](static/images/frontend.PNG)
+
+
 ![plotly.PNG](static/images/plotly.png)
