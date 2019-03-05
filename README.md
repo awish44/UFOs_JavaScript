@@ -8,7 +8,9 @@ Program that creates a table dynamically based upon a provided dataset based and
 * [Dataset](static/js/data.js)
 
 
-**Frontend Visual & Graph**
+**Frontend Visual & Graph:**
+<br>
+<br>
 ![frontend.PNG](static/images/frontend.PNG)
 <br>
 <br>
