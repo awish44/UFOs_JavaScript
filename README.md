@@ -3,7 +3,7 @@ Program that creates a table dynamically based upon a provided dataset based and
 
 **See below for links to work:**
 * [JavaScript](static/js/app.js)
-* [HTML- frontend](index.html)
+* [HTML](index.html)
 * [Plotly Code](static/js/plot.js)
 * [Dataset](static/js/data.js)
 <br>
