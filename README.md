@@ -7,6 +7,8 @@ Program that creates a table dynamically based upon a provided dataset based and
 * [Plotly Code](static/js/plot.js)
 * [Dataset](static/js/data.js)
 
+
+**Frontend Visual & Graph**
 ![frontend.PNG](static/images/frontend.PNG)
 <br>
 <br>
