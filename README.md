@@ -1,5 +1,5 @@
 # UFOs_JavaScript
-Program that creates a table dynamically based upon a provided dataset based and allows users to filter the table for a specific date. Leveraging different languages: JavaScript, D3.ks, HTML, & CSS. 
+Program that creates a table dynamically based upon a provided dataset and allows users to filter the table for a specific date. Leveraging different languages: JavaScript, D3.ks, HTML, & CSS. 
 
 **See below for links to work:**
 * [JavaScript](static/js/app.js)
